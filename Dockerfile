@@ -1,4 +1,4 @@
-FROM jauderho/dnscontrol:v3.15.0@sha256:d7d05d01d950227520216d47018e655d001d327b56dbcd9101f35e60840120e8
+FROM jauderho/dnscontrol:v4.0.1@sha256:836d54e9b57793be61fc0f3404f1aa15ce9d51d14012155dd0adc6b55e24401a
 
 LABEL repository="https://github.com/wblondel/dnscontrol-action"
 LABEL maintainer="William Gérald Blondel <contact@williamblondel.fr>"
